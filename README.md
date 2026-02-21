@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Cliez
 
-<!--
-**cli3z/cli3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning to code and building things step by step. Based in the Czech Republic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 What I know
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript (intermediate)
+
+**Backend / Scripting**
+- Python (basics)
+
+---
+
+### 📫 Contact
+- Discord: **tcli3z**
+- GitHub: [cli3z](https://github.com/cli3z)
+
+---
+
+*Still learning, always curious.*
